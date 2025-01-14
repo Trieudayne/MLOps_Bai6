@@ -1,0 +1,5 @@
+ultralytics
+opencv-python
+tensorflow
+pandas
+bing_image_downloader
